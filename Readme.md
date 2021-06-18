@@ -13,3 +13,5 @@
 *Create a folder called  "data" in your C:*
 
     docker run -v c:/data://usr/src/app/output gchandra10/pygoogle
+
+List the folder, you will see google.ico file downloaded.
